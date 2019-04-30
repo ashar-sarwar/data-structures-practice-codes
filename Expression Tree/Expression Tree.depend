@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538206185 source:d:\muhammad talib\data structures\expression tree\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+

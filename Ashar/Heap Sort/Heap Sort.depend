@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540361414 source:c:\tahawork\semester 4\data structures\heap sort\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+
